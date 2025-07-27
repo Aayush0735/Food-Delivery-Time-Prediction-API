@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+fastapi
+uvicorn[standard]
+seaborn
+matplotlib
+haversine
+joblib
